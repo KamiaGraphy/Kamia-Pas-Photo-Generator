@@ -1,0 +1,5 @@
+{
+  "name": "Kamia Pas Photo Generator",
+  "description": "An AI-powered application to generate professional passport photos. Users can customize photo size, background color, outfit, expression, and lighting to create the perfect headshot for official use.",
+  "requestFramePermissions": []
+}
